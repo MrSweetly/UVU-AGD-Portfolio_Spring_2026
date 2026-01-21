@@ -3,6 +3,10 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
+# ============================================
+# UNITY SECTION
+# ============================================
+
 # Unity generated folders - ALWAYS IGNORE THESE
 /[Ll]ibrary/
 /[Tt]emp/
@@ -77,22 +81,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Additional Unity ignore patterns
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-*.opendb.meta
-*.VC.db.meta
-
 # Unity crash logs
 *.log
 *.dwlt
@@ -112,3 +100,650 @@ Thumbs.db
 # Additional Unity cache files
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ============================================
+# UNREAL ENGINE SECTION
+# ============================================
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Unreal Engine generated files
+*.VC.db
+*.VC.opendb
+
+# Build results
+[Dd]ebug*/
+[Dd]ebugPublic/
+[Rr]elease*/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Trace Files
+*.e2e
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+*.vbw
+
+# Visual Studio 6 workspace file
+*.dsw
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush personal settings
+.cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration
+.nsight-gpu-debugger-*
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+
+# ============================================
+# UNREAL ENGINE SPECIFIC
+# ============================================
+
+# Unreal Engine 4/5 Generated Files
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio and Rider user preferences
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled source code for engines and plugins
+*.dll
+*.so
+
+# UE4/5 crash reports and logs
+[Uu]nreal Engine/
+*.diagnostics
+*.log
+*.dmp
+
+# UE4/5 project files
+*.uproject
+*.uplugin
+
+# UE4/5 intermediate files
+*.obj
+*.pch
+
+# UE4/5 asset metadata
+*.uasset
+*.umap
+
+# UE4/5 shader cache
+[Ii]ntermediate/Build/
+[Ii]ntermediate/BuildWin64/
+[Ii]ntermediate/BuildMac/
+[Ii]ntermediate/BuildLinux/
+
+# UE4/5 perforce integration
+*.clientspec
+*.tmp
+
+# UE4/5 marketplace files
+MarketplaceDownloadCache/
+
+# UE4/5 visual studio files
+.vs/
+
+# UE4/5 content backup files
+*_Backup
+*_Temp
+
+# UE4/5 Mac specific
+.DS_Store
+
+# UE4/5 Linux specific
+*~
+
+# UE4/5 Windows specific
+Thumbs.db
+
+# UE4/5 content migration
+Content/Migrated/
+
+# UE4/5 blueprints compiled data
+Content/*/Blueprints/*/SKEL_*
+Content/*/Blueprints/*/DERIVED_*
+
+# ============================================
+# OS GENERATED FILES
+# ============================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## ============================================
+# SUBSTANCE PAINTER & TEXTURING TOOLS
+# ============================================
+
+# Substance Painter temporary files
+*.png.tx
+*.tga.tx
+*.jpg.tx
+*.jpeg.tx
+*.bmp.tx
+*.exr.tx
+
+# Substance Painter project files and cache
+*.spp-journal
+*.sppold
+*.spptemp
+*.spt
+*.sbsar
+*.sbs
+
+# Substance Painter configuration and cache files
+*.hcm.swatch          # Color palette files
+*.hcm                 # Other Substance config files
+*.ini                 # Configuration files
+*.cfg                 # More config files
+*.json                # JSON config/state files
+
+# Substance Painter user preferences and settings
+preferences/
+userpreferences/
+*.prefs
+UserSettings/
+Documents/Substance/
+
+# Substance Painter backup files
+*_backup*.spp
+*_autosave*.spp
+
+# Substance Painter export cache
+Export Presets/
+export-presets/
+
+# Substance Painter brush cache
+brush/
+Brushes/
+
+# Substance Painter smart material cache
+smart-material/
+Smart Materials/
+
+# Substance Painter texture cache
+cache/
+texture-cache/
+scratch/
+
+# Substance Painter workspaces and layouts
+workspace/
+layout/
+*.workspace
+
+# Substance Designer files
+*.sbs
+*.sbsar
+*.sbsprj
+*.sbsprj-old
+
+# Substance Alchemist files
+*.sbal
+*.sbal-journal
+
+# Substance general cache directories
+/alchemist-cache/
+/painter-cache/
+/designer-cache/
+/substance-cache/
+
+# Marmoset Toolbag files
+*.tbag
+*.tbag-journal
+ToolbagCache/
+
+# Quixel Suite/Mixer files
+*.qx
+*.qxl
+*.qxc
+*.megascans
+Bridge/
+
+# 3D Coat files
+*.3b
+*.3dc
+*.3dccache
+
+# ZBrush files (temp/autosave)
+*.ztmp
+*.zbp
+*_autosave.zpr
+ZBrushData/
+ZStartup/
+
+# Blender temporary files
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# ============================================
+# TEXTURE WORKING FILES (COMMON)
+# ============================================
+
+# Photoshop temporary files
+*.psd
+*.psb
+*.kra
+*.clip
+*.ora
+
+# GIMP files
+*.xcf
+*.gbr
+*.ggr
+*.gih
+*.pat
+
+# Krita files
+*.kra
+*.ora
+
+# Affinity files
+*.afphoto
+*.afdesign
+*.afpub
+
+# Working/high-res source files (keep in separate repo or LFS)
+# Uncomment if you want to ignore source PSDs/etc but track via LFS
+#*.psd
+#*.ai
+#*.clip
+
+# Texture compression intermediates
+*_BC[1-7].*
+*_DXT[1-5].*
+*_ASTC_*
+*_ETC[12].*
+*_PVRTC.*
+
+# Mipmap generation files
+*_mip[0-9].*
+*_mipmap.*
+
+# Normal map derivatives
+*_normal.*
+*_n.*
+*_nor.*
+
+# Texture atlas intermediates
+*_atlas.*
+*_sheet.*
+*_spritesheet.*
+
+# Channel-packed files
+*_mask.*
+*_orm.*  # Occlusion, Roughness, Metalness
+*_arm.*  # Albedo, Roughness, Metalness
+
+# Texture baking intermediates
+*_bake.*
+*_high.*
+*_low.*
+*_cage.*
+*_projection.*
+
+# UV layout files
+*_uv.*
+*_uvlayout.*
+*_udim.*
+
+# Substance export intermediates
+/_exports/
+/_output/
+/temp-exports/
