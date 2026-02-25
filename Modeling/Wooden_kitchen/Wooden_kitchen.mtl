@@ -1,0 +1,454 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl None_007
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None_007.png
+map_Pm metalnessMap1.png
+map_Pr metalnessMap1.png
+norm normalMap1.png
+map_Ka ambientMap1.png
+
+newmtl None
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None.png
+map_Pm metalnessMap2.png
+map_Pr metalnessMap2.png
+norm normalMap2.png
+
+newmtl None_002
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None_002.png
+map_Pm metalnessMap3.png
+map_Pr metalnessMap3.png
+norm normalMap3.png
+map_Ka ambientMap3.png
+
+newmtl None_003
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None_003.png
+map_Pm metalnessMap4.png
+map_Pr metalnessMap4.png
+norm normalMap4.png
+map_Ka ambientMap4.png
+
+newmtl cupboardup
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd cupboardup.png
+map_Pm metalnessMap5.png
+map_Pr metalnessMap5.png
+norm normalMap5.png
+map_Ka ambientMap5.png
+
+newmtl cupboardups
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd cupboardups.png
+map_Pm metalnessMap6.png
+map_Pr metalnessMap6.png
+norm normalMap6.png
+map_Ka ambientMap6.png
+
+newmtl cupboardupssss
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd cupboardupssss.png
+map_Pm metalnessMap7.png
+map_Pr metalnessMap7.png
+norm normalMap7.png
+
+newmtl cupboardupsbok
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd cupboardupsbok.png
+map_Pm metalnessMap8.png
+map_Pr metalnessMap8.png
+norm normalMap8.png
+map_Ka ambientMap8.png
+
+newmtl cupboardupsbokss
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd cupboardupsbokss.png
+map_Pm metalnessMap9.png
+map_Pr metalnessMap9.png
+norm normalMap9.png
+
+newmtl fridge
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd fridge.png
+map_Pm metalnessMap10.png
+map_Pr metalnessMap10.png
+norm normalMap10.png
+map_Ka ambientMap10.png
+
+newmtl None_001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None_001.png
+map_Pm metalnessMap11.png
+map_Pr metalnessMap11.png
+norm normalMap11.png
+
+newmtl material
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material.png
+map_Pm metalnessMap12.png
+map_Pr metalnessMap12.png
+norm normalMap12.png
+map_Ka ambientMap12.png
+
+newmtl krujka_001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd krujka_001.png
+map_Pm metalnessMap13.png
+map_Pr metalnessMap13.png
+norm normalMap13.png
+
+newmtl krujka
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd krujka.png
+map_Pm metalnessMap14.png
+map_Pr metalnessMap14.png
+norm normalMap14.png
+
+newmtl Zavarka_001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Zavarka_001.png
+map_Pm metalnessMap15.png
+map_Pr metalnessMap15.png
+norm normalMap15.png
+
+newmtl Zavarka_002
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Zavarka_002.png
+map_Pm metalnessMap16.png
+map_Pr metalnessMap16.png
+norm normalMap16.png
+
+newmtl Zavarka
+Tr 0.6334795653820038
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Zavarka.png
+map_Pm metalnessMap17.png
+map_Pr metalnessMap17.png
+norm normalMap17.png
+
+newmtl material_18
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_18.png
+map_Pm metalnessMap18.png
+map_Pr metalnessMap18.png
+norm normalMap18.png
+
+newmtl material_19
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 1 1 1
+map_Kd material_19.png
+map_Ke emissiveMap19.png
+map_Pm metalnessMap19.png
+map_Pr metalnessMap19.png
+norm normalMap19.png
+map_Ka ambientMap19.png
+
+newmtl material_20
+Tr 0.1531459093093872
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.3455530107021332
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.23615500330924988 0.23615500330924988 0.23615500330924988
+Ke 0 0 0
+
+newmtl board
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd board.png
+map_Pm metalnessMap21.png
+map_Pr metalnessMap21.png
+norm normalMap21.png
+
+newmtl plate
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd plate.png
+map_Pm metalnessMap22.png
+map_Pr metalnessMap22.png
+norm normalMap22.png
+
+newmtl plita
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd plita.png
+map_Pm metalnessMap23.png
+map_Pr metalnessMap23.png
+norm normalMap23.png
+map_Ka ambientMap23.png
+
+newmtl material_24
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_24.png
+map_Pm metalnessMap24.png
+map_Pr metalnessMap24.png
+norm normalMap24.png
+
+newmtl None_006
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd None_006.png
+map_Pm metalnessMap25.png
+map_Pr metalnessMap25.png
+norm normalMap25.png
+map_Ka ambientMap25.png
+
+newmtl Vitewka
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Vitewka.png
+map_Pm metalnessMap26.png
+map_Pr metalnessMap26.png
+norm normalMap26.png
+map_Ka ambientMap26.png
+
+newmtl Window
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Window.png
+map_Pm metalnessMap27.png
+map_Pr metalnessMap27.png
+norm normalMap27.png
+map_Ka ambientMap27.png
+
+newmtl Windowgl
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 1 1 1
